@@ -18,7 +18,7 @@ build.xml
 ant.properties
 .gradle
 build-tools_*.zip
-gradle-*
-gradle-*
+#gradle-*
+#gradle-*
 .DS_Store
 signing.properties
